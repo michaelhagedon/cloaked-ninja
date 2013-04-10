@@ -1,3 +1,3 @@
 <?php phpinfo() ?>
 
-<p>Git is the new Subversion.</p>
+<p>Git is awesome, but so is Subversion.</p>
